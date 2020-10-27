@@ -4,7 +4,7 @@ bdist-mpkg==0.5.0
 bigjson==1.0.1
 bonjour-py==0.3
 cffi==1.12.2
-cryptography==2.6.1
+cryptography==3.2
 enum34==1.1.6
 fake-useragent==0.1.11
 future==0.17.1
